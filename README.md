@@ -1,3 +1,5 @@
+*This is a copy of the helpful work of Phanan found on [web archive](https://web.archive.org/web/20150510005026/https://github.com/phanan/htaccess)*
+
 # .htaccess Snippets
 A collection of useful .htaccess snippets, all in one place.
 
